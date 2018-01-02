@@ -1,0 +1,2 @@
+# migrater
+gateway元数据迁移工具，用来迁移老版本的gateway的元数据到新版gateway上
